@@ -1,0 +1,8 @@
+bzz/modul/projekt/hibernate/HibernateUtil.class
+bzz/modul/projekt/app/TestController.class
+bzz/modul/projekt/entities/BenutzerEntity.class
+bzz/modul/projekt/entities/TestEntity.class
+bzz/modul/projekt/httpObjects/LoginHttpObject.class
+bzz/modul/projekt/businessServices/BusinessServiceBenutzer.class
+bzz/modul/projekt/app/UserController.class
+bzz/modul/projekt/app/SpringBootTomcatApplication.class

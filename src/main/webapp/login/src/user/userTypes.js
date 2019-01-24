@@ -1,0 +1,1 @@
+export const USER_SET = 'APP/USER/SET_ATTRIBUTE';
